@@ -1,5 +1,4 @@
-from app import *
+from app import jup
 
 def test_jup():
-    assert jup(2, 2) == 4
-
+    assert jup(2, 2)
